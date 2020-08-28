@@ -8,8 +8,9 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.bumptech.glide.load.resource.bitmap.CircleCrop
 import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions.withCrossFade
 import com.bumptech.glide.request.RequestOptions
-import com.zs.base_library.R
-import com.zs.base_library.view.GlideRoundTransform
+import com.llt.baselibrary.R
+import com.llt.baselibrary.common.CenterBlurTransformation
+import com.llt.baselibrary.view.GlideRoundTransform
 
 /**
  * des 图片加载扩展方法
@@ -68,7 +69,7 @@ fun ImageView.loadRadius(context: Context, url: String, radius: Int) {
     Glide.with(context)
         .load(url)
         .centerCrop()
-        .error(R.drawable.ic_launcher)
+        .error(R.mipmap.ic_launcher)
         .transition(withCrossFade())
         .transform(GlideRoundTransform(context,radius))
         .into(this)

@@ -90,6 +90,7 @@ dependencies {
     api 'cn.bingoogolapple:bga-banner:2.2.7'
     api 'pub.devrel:easypermissions:3.0.0'
 
-    api 'com.github.hackware1993:MagicIndicator:1.6.0'
+
     api 'com.github.donkingliang:LabelsView:1.6.1'
+    api 'com.github.hackware1993:MagicIndicator:1.6.0'
 }
