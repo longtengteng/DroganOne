@@ -1,6 +1,6 @@
-package com.zs.zs_jetpack.http
+package com.llt.dragon.http
 
-import com.zs.base_library.http.ApiException
+import com.llt.baselibrary.http.ApiException
 import java.io.Serializable
 
 /**

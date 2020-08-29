@@ -1,4 +1,4 @@
-package com.zs.zs_jetpack.constants
+package com.llt.dragon.constants
 object ApiConstants {
     const val BASE_URL = "https://www.wanandroid.com"
 }

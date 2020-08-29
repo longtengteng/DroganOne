@@ -1,4 +1,4 @@
-package com.zs.zs_jetpack.view
+package com.llt.dragon.view
 
 
 import androidx.viewpager2.widget.ViewPager2

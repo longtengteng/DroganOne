@@ -1,8 +1,8 @@
-package com.zs.base_library.base
+package com.llt.baselibrary.base
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.zs.base_library.http.ApiException
+import com.llt.baselibrary.http.ApiException
 
 /**
  * des 基础vm

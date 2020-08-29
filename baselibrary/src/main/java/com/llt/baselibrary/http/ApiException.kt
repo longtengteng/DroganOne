@@ -1,4 +1,4 @@
-package com.zs.base_library.http
+package com.llt.baselibrary.http
 
 /**
  * 用来封装业务错误信息

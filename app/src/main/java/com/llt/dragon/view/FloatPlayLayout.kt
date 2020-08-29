@@ -1,4 +1,4 @@
-package com.zs.zs_jetpack.view
+package com.llt.dragon.view
 
 import android.animation.ValueAnimator
 import android.content.Context
@@ -9,7 +9,7 @@ import android.view.Gravity
 import android.view.View
 import android.widget.LinearLayout
 import com.llt.dragon.R
-import com.zs.base_library.common.*
+import com.llt.baselibrary.common.*
 import kotlinx.android.synthetic.main.play_float_layout.view.*
 
 /**

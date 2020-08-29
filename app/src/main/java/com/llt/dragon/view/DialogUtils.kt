@@ -1,4 +1,4 @@
-package com.zs.zs_jetpack.view
+package com.llt.dragon.view
 
 import android.app.AlertDialog
 import android.app.Dialog
@@ -7,7 +7,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.widget.TextView
 import com.llt.dragon.R
-import com.zs.base_library.common.clickNoRepeat
+import com.llt.baselibrary.common.clickNoRepeat
 
 
 /**

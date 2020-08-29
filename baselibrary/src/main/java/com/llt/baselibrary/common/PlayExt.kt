@@ -1,4 +1,4 @@
-package com.zs.base_library.common
+package com.llt.baselibrary.common
 
 import android.content.ContentUris
 import android.net.Uri

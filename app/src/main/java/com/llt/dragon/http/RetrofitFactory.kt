@@ -1,4 +1,4 @@
-package com.zs.zs_jetpack.http
+package com.llt.dragon.http
 
 import com.franmontiel.persistentcookiejar.ClearableCookieJar
 import com.franmontiel.persistentcookiejar.PersistentCookieJar
@@ -6,8 +6,8 @@ import com.franmontiel.persistentcookiejar.cache.SetCookieCache
 import com.franmontiel.persistentcookiejar.persistence.SharedPrefsCookiePersistor
 import com.llt.baselibrary.BaseApp.Companion.getContext
 import com.llt.baselibrary.http.HttpLoggingInterceptor
-import com.zs.zs_jetpack.constants.ApiConstants
-import com.zs.zs_jetpack.constants.Constants
+import com.llt.dragon.constants.ApiConstants
+import com.llt.dragon.constants.Constants
 import okhttp3.Cache
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient

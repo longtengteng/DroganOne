@@ -1,4 +1,4 @@
-package com.zs.base_library.event
+package com.llt.baselibrary.event
 
 import android.util.Log
 import androidx.annotation.MainThread

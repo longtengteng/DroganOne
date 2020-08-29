@@ -1,4 +1,4 @@
-package com.zs.base_library.base
+package com.llt.baselibrary.base
 
 import android.content.Context
 import android.os.Bundle
@@ -14,7 +14,7 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
 import com.llt.baselibrary.base.DataBindingConfig
-import com.zs.base_library.utils.ParamUtil
+import com.llt.baselibrary.utils.ParamUtil
 
 /**
  * des mvvm 基础 fragment

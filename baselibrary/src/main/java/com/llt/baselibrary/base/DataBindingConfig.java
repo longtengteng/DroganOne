@@ -33,7 +33,7 @@ import androidx.lifecycle.ViewModel;
  * @date 20/4/18
  *
  *
- * 推荐一波KunMinX的小专栏https://xiaozhuanlan.com/kunminx，是我目前为止买过的最超值的专栏
+ * KunMinX的小专栏https://xiaozhuanlan.com/kunminx
  */
 public class DataBindingConfig {
 

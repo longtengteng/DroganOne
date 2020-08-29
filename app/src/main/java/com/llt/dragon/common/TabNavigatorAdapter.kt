@@ -1,10 +1,10 @@
-package com.zs.zs_jetpack.common
+package com.llt.dragon.common
 
 import android.content.Context
 import android.view.animation.AccelerateInterpolator
 import android.view.animation.DecelerateInterpolator
 import com.llt.dragon.R
-import com.zs.base_library.common.getThemeColor
+import com.llt.baselibrary.common.getThemeColor
 import net.lucode.hackware.magicindicator.buildins.UIUtil
 import net.lucode.hackware.magicindicator.buildins.commonnavigator.abs.CommonNavigatorAdapter
 import net.lucode.hackware.magicindicator.buildins.commonnavigator.abs.IPagerIndicator
